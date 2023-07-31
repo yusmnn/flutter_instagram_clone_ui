@@ -5,5 +5,7 @@ https://www.figma.com/community/file/874574625832268971
 
 ### Demo
 
-https://github.com/yusmnn/flutter_twitter_clone_ui/assets/76932249/21d75c14-5c3b-439c-83a0-c4b84751f201
+https://github.com/yusmnn/flutter_instagram_clone_ui/assets/76932249/8468aa32-da29-4925-bdeb-d3cd03e5f39c
+
+
 
