@@ -1,16 +1,9 @@
 # flutter_instagram_clone_ui
 
-A new Flutter project.
+### Reference UI:
+https://www.figma.com/community/file/874574625832268971
 
-## Getting Started
+### Demo
 
-This project is a starting point for a Flutter application.
+https://github.com/yusmnn/flutter_twitter_clone_ui/assets/76932249/21d75c14-5c3b-439c-83a0-c4b84751f201
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
